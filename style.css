@@ -19,4 +19,12 @@ h1{
     font-size:45px;
     margin:50px;
 }
+.content{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.content p{
+    color:crimson;
+}
 
